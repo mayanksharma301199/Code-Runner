@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Code</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_h_c_j">HCJ</string>
+    <string name="tab_text_1">HTML</string>
+    <string name="tab_text_2">CSS</string>
+    <string name="tab_text_3">JS</string>
+    <string name="hcj">HCJ</string>
+    <string name="python">Python</string>
+    <string name="java">Java</string>
+    <string name="title_activity_tabbed">tabbed</string>
+    <string name="output">Output</string>
+    <string name="title_activity_python_tabbed">PythonTabbed</string>
+    <string name="codecompiler">CodeCompiler</string>
+    <string name="code">Code</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_HCJ">
+
+    <fragment
+        android:id="@+id/nav_HCJ"
+        android:name="com.example.codecompiler.ui.HCJ.HCJ_Fragment"
+        android:label="@string/hcj"
+        tools:layout="@layout/fragment_hcj" />
+
+    <fragment
+        android:id="@+id/nav_Python"
+        android:name="com.example.codecompiler.ui.Python.Python_Fragment"
+        android:label="@string/python"
+        tools:layout="@layout/fragment_python" />
+
+    <fragment
+        android:id="@+id/nav_Java"
+        android:name="com.example.codecompiler.ui.Java.Java_Fragment"
+        android:label="@string/java"
+        tools:layout="@layout/fragment_java" />
+
+</navigation>
